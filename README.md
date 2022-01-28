@@ -1,1 +1,1 @@
-# SimpleStore
+## _ Simple Java application that includes an electronic store._
