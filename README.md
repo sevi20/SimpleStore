@@ -1,1 +1,1 @@
-## _ Simple Java application that includes an electronic store._
+## _Simple Java application that includes an electronic store._
